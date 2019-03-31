@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MultiTenantDomainStoreContainer" CdmEntityContainer="CONFIGDBContext">
+    <EntitySetMapping Name="Engagements">
+      <EntityTypeMapping TypeName="Multi.Tenant.Domain.Engagement">
+        <MappingFragment StoreEntitySet="Engagement">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="DBName" ColumnName="DBName" />
+          <ScalarProperty Name="EngagementDBServerName" ColumnName="EngagementDBServerName" />
+          <ScalarProperty Name="EngagementDBLogin" ColumnName="EngagementDBLogin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
