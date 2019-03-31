@@ -1,0 +1,15 @@
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\Multi.Tenant.UnitOfWork.dll.config
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\Multi.Tenant.UnitOfWork.dll
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\Multi.Tenant.UnitOfWork.pdb
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\EntityFramework.dll
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\EntityFramework.xml
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\obj\Debug\Multi.Tenant.UnitOfWork.csproj.CoreCompileInputs.cache
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\obj\Debug\Multi.Tenant.UnitOfWork.csproj.CopyComplete
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\obj\Debug\Multi.Tenant.UnitOfWork.dll
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\obj\Debug\Multi.Tenant.UnitOfWork.pdb
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\obj\Debug\Multi.Tenant.UnitOfWork.csprojAssemblyReference.cache
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\Multi.Tenant.Domain.dll
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\Multi.Tenant.Domain.pdb
+c:\users\ahmar.husain\source\repos\Multi.Tenanat.App\Multi.Tenant.UnitOfWork\bin\Debug\Multi.Tenant.Domain.dll.config
