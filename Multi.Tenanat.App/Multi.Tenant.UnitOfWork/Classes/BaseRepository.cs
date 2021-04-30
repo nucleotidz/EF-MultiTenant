@@ -3,7 +3,7 @@
 namespace Multi.Tenant.UnitOfWork.Classes
 {
     /// <summary>
-    ///  Description : BaseRepository is base class for all repository to expose commit functionality
+    ///  Description : BaseRepository is base class for all repository to expose commit functionality test
     /// </summary>
     public abstract class BaseRepository : IBaseRepository
     {
